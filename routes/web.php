@@ -18,4 +18,7 @@
 Route::get('vuebasic', function () {
     return view('vuebasic.overview');
 });
+Route::get('vuebasic/component', function () {
+    return view('vuebasic.component');
+});
 

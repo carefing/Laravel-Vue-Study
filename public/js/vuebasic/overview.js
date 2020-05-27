@@ -44950,15 +44950,15 @@ var vuebasic = new Vue({
     computed: {
         orderFrameworks: function orderFrameworks() {
             return _.orderBy(this.frameworks, this.sortparam, this.order);
-        },
-
-        searchFrameworks: function searchFrameworks() {
-            var _this = this;
-
-            return this.filterkey ? this.frameworks.filter(function (framework) {
-                return framework.framework.includes(_this.filterkey);
-            }) : this.frameworks;
         }
+        // ,
+
+        // searchFrameworks() {
+        //     return this.filterkey ? this.frameworks.filter(framework => {
+        //         return framework.framework.includes(this.filterkey);
+        //     })
+        //     : this.frameworks;
+        // }
     }
 });
 

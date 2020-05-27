@@ -64,13 +64,14 @@ var vuebasic = new Vue({
     computed: {
         orderFrameworks: function () {
             return _.orderBy(this.frameworks, this.sortparam, this.order);
-        },
-
-        searchFrameworks() {
-            return this.filterkey ? this.frameworks.filter(framework => {
-                return framework.framework.includes(this.filterkey);
-            })
-            : this.frameworks;
         }
+        // ,
+
+        // searchFrameworks() {
+        //     return this.filterkey ? this.frameworks.filter(framework => {
+        //         return framework.framework.includes(this.filterkey);
+        //     })
+        //     : this.frameworks;
+        // }
     }
 });
