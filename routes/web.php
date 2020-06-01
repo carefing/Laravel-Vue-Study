@@ -24,4 +24,7 @@ Route::get('vuebasic/component', function () {
 Route::get('vuebasic/vuerouter', function () {
     return view('vuebasic.vuerouter');
 });
+Route::get('vuebasic/vuetify', function () {
+    return view('vuebasic.vuetify');
+});
 
