@@ -27,4 +27,7 @@ Route::get('vuebasic/vuerouter', function () {
 Route::get('vuebasic/vuetify', function () {
     return view('vuebasic.vuetify');
 });
+Route::get('vuebasic/lifetime', function () {
+    return view('vuebasic.lifetime');
+});
 

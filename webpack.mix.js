@@ -16,4 +16,5 @@ mix.js('resources/assets/js/app.js', 'public/js')
    .js('resources/views/vuebasic/js/component.js', 'public/js/vuebasic')
    .js('resources/views/vuebasic/js/vuerouter.js', 'public/js/vuebasic')
    .js('resources/views/vuebasic/js/vuetify.js', 'public/js/vuebasic')
+   .js('resources/views/vuebasic/js/lifetime.js', 'public/js/vuebasic')
    .sass('resources/assets/sass/app.scss', 'public/css');
