@@ -1,0 +1,191 @@
+[
+  {
+    "CounterPrijs": 889,
+    "HTMLElementID": "3fad447eea0c44b3948dc6828fa3b212",
+    "ProductGroupID": "a2fa62f2-ca2a-4200-9050-1b1176b14c46",
+    "ProductGroupOrder": 1,
+    "ProductID": "3fad447e-ea0c-44b3-948d-c6828fa3b212",
+    "ProductNaam": "Patat babi pangang",
+    "TAXDescription": "BTW laag"
+  },
+  {
+    "CounterPrijs": 565444,
+    "HTMLElementID": "62b87cf5d7464beba5aa422a1eae0fa0",
+    "ProductGroupID": "a2fa62f2-ca2a-4200-9050-1b1176b14c46",
+    "ProductGroupOrder": 1,
+    "ProductID": "62b87cf5-d746-4beb-a5aa-422a1eae0fa0",
+    "ProductNaam": "Patat normaal",
+    "TAXDescription": "BsTW laag"
+  },
+  {
+    "CounterPrijs": 550,
+    "HTMLElementID": "12255931d2a546718c151dba9fb3bddc",
+    "ProductGroupID": "a2fa62f2-ca2a-4200-9050-1b1176b14c46",
+    "ProductGroupOrder": 1,
+    "ProductID": "12255931-d2a5-4671-8c15-1dba9fb3bddc",
+    "ProductNaam": "Patat stoofvlees",
+    "TAXDescription": "BTW laag"
+  },
+  {
+    "CounterPrijs": 320,
+    "HTMLElementID": "710c19f4fbb8433ea2222d8fa5dd75e5",
+    "ProductGroupID": "a2fa62f2-ca2a-4200-9050-1b1176b14c46",
+    "ProductGroupOrder": 1,
+    "ProductID": "710c19f4-fbb8-433e-a222-2d8fa5dd75e5",
+    "ProductNaam": "Patat groot",
+    "TAXDescription": "BTW laagsss"
+  },
+  {
+    "CounterPrijs": 200,
+    "HTMLElementID": "9b3cea8bc174469b9129cf52e5852af3",
+    "ProductGroupID": "9ead5128-0d0b-4ca6-8a7b-b1917515ab3e",
+    "ProductGroupOrder": 1,
+    "ProductID": "9b3cea8b-c174-469b-9129-cf52e5852af3",
+    "ProductNaam": "Frikandel speciaal",
+    "TAXDescription": "BTW laag"
+  },
+  {
+    "CounterPrijs": 170,
+    "HTMLElementID": "c5cdaa013d9246bfb83549a3a7e86d5d",
+    "ProductGroupID": "a2fa62f2-ca2a-4200-9050-1b1176b14c46",
+    "ProductGroupOrder": 1,
+    "ProductID": "c5cdaa01-3d92-46bf-b835-49a3a7e86d5d",
+    "ProductNaam": "Raspatat normaal",
+    "TAXDescription": "BTW laag"
+  },
+  {
+    "CounterPrijs": 1620,
+    "HTMLElementID": "2b13b15c356a42849c5d4da4719eb1c8",
+    "ProductGroupID": "9ead5128-0d0b-4ca6-8a7b-b1917515ab3e",
+    "ProductGroupOrder": 1,
+    "ProductID": "2b13b15c-356a-4284-9c5d-4da4719eb1c8",
+    "ProductNaam": "Saté kroket",
+    "TAXDescription": "BTW laags"
+  },
+  {
+    "CounterPrijs": 190,
+    "HTMLElementID": "c079a48315f34f4facc9b53b9bca68f4",
+    "ProductGroupID": "9ead5128-0d0b-4ca6-8a7b-b1917515ab3e",
+    "ProductGroupOrder": 1,
+    "ProductID": "c079a483-15f3-4f4f-acc9-b53b9bca68f44",
+    "ProductNaam": "Kaaskroket",
+    "TAXDescription": "BTW laag"
+  },
+  {
+    "CounterPrijs": 1222,
+    "HTMLElementID": "63a1c39626ec4361805dd18d5d1562aa",
+    "ProductGroupID": "a2fa62f2-ca2a-4200-9050-1b1176b14c46",
+    "ProductGroupOrder": 1,
+    "ProductID": "63a1c396-26ec-4361-805d-d18d5d1562aa",
+    "ProductNaam": "Fish friet",
+    "TAXDescription": "BsTW laags"
+  },
+  {
+    "CounterPrijs": 560,
+    "HTMLElementID": "63e320ca4aff4a8e813b8f7bbc23e0ad",
+    "ProductGroupID": "9ead5128-0d0b-4ca6-8a7b-b1917515ab3e",
+    "ProductGroupOrder": 1,
+    "ProductID": "63e320ca-4aff-4a8e-813b-8f7bbc23e0ad",
+    "ProductNaam": "Vleeskroket",
+    "TAXDescription": "BTW laag"
+  },
+  {
+    "CounterPrijs": 230,
+    "HTMLElementID": "3361f33bd60443758cfff7eb68f3734e",
+    "ProductGroupID": "a2fa62f2-ca2a-4200-9050-1b1176b14c46",
+    "ProductGroupOrder": 1,
+    "ProductID": "3361f33b-d604-4375-8cff-f7eb68f3734e",
+    "ProductNaam": "Familie zak patat66666",
+    "TAXDescription": "BTW laag"
+  },
+  {
+    "CounterPrijs": 320,
+    "HTMLElementID": "69c7afb5d74442e384b19dfb99ed508f",
+    "ProductGroupID": "a2fa62f2-ca2a-4200-9050-1b1176b14c46",
+    "ProductGroupOrder": 1,
+    "ProductID": "69c7afb5-d744-42e3-84b1-9dfb99ed508f",
+    "ProductNaam": "Raspatat super groOOot",
+    "TAXDescription": "BTW laag"
+  },
+  {
+    "CounterPrijs": 160,
+    "HTMLElementID": "77768ee5ae24456ab99216ab3cd14805",
+    "ProductGroupID": "9ead5128-0d0b-4ca6-8a7b-b1917515ab3e",
+    "ProductGroupOrder": 1,
+    "ProductID": "77768ee5-ae24-456a-b992-16ab3cd14805",
+    "ProductNaam": "Goulash kroket",
+    "TAXDescription": "BTW laasgs"
+  },
+  {
+    "CounterPrijs": 190,
+    "HTMLElementID": "c079a48315f34f4facc9b53b9bca68f4",
+    "ProductGroupID": "9ead5128-0d0b-4ca6-8a7b-b1917515ab3e",
+    "ProductGroupOrder": 1,
+    "ProductID": "c079a483-15f3-4f4f-acc9-b53b9bca68f44",
+    "ProductNaam": "Kaaskroket",
+    "TAXDescription": "BTW laag"
+  },
+  {
+    "CounterPrijs": 570,
+    "HTMLElementID": "847454c3758b4f81848bf90d1edaf244",
+    "ProductGroupID": "a2fa62f2-ca2a-4200-9050-1b1176b14c46",
+    "ProductGroupOrder": 1,
+    "ProductID": "847454c3-758b-4f81-848b-f90d1edaf244",
+    "ProductNaam": "Patat shoarma",
+    "TAXDescription": "BsTW laagddd"
+  },
+  {
+    "CounterPrijs": 1620,
+    "HTMLElementID": "2b13b15c356a42849c5d4da4719eb1c8",
+    "ProductGroupID": "9ead5128-0d0b-4ca6-8a7b-b1917515ab3e",
+    "ProductGroupOrder": 1,
+    "ProductID": "2b13b15c-356a-4284-9c5d-4da4719eb1c8",
+    "ProductNaam": "Saté kroket",
+    "TAXDescription": "BTW laags"
+  },
+  {
+    "CounterPrijs": 190,
+    "HTMLElementID": "bfc41336766342479726a5db693b8304",
+    "ProductGroupID": "9ead5128-0d0b-4ca6-8a7b-b1917515ab3e",
+    "ProductGroupOrder": 1,
+    "ProductID": "bfc41336-7663-4247-9726-a5db693b8304",
+    "ProductNaam": "Kwekkeboom kroket",
+    "TAXDescription": "BTW laag"
+  },
+  {
+    "CounterPrijs": 1090,
+    "HTMLElementID": "8f8453585b014466a7ab4b340bfd9432",
+    "ProductGroupID": "9ead5128-0d0b-4ca6-8a7b-b1917515ab3e",
+    "ProductGroupOrder": 1,
+    "ProductID": "8f845358-5b01-4466-a7ab-4b340bfd9432",
+    "ProductNaam": "Kalfskroket",
+    "TAXDescription": "BTW laagss"
+  },
+  {
+    "CounterPrijs": 1600,
+    "HTMLElementID": "35161e7f4a4440de857b5ec12fcd4e02",
+    "ProductGroupID": "9ead5128-0d0b-4ca6-8a7b-b1917515ab3e",
+    "ProductGroupOrder": 1,
+    "ProductID": "35161e7f-4a44-40de-857b-5ec12fcd4e02",
+    "ProductNaam": "Frikandel",
+    "TAXDescription": "BTW laag"
+  },
+  {
+    "CounterPrijs": 300,
+    "HTMLElementID": "edcdde1143414876800fb34351c346c4",
+    "ProductGroupID": "a2fa62f2-ca2a-4200-9050-1b1176b14c46",
+    "ProductGroupOrder": 1,
+    "ProductID": "edcdde11-4341-4876-800f-b34351c346c4",
+    "ProductNaam": "00Qoo00777",
+    "TAXDescription": "BTWs laag"
+  },
+  {
+    "CounterPrijs": 1600,
+    "HTMLElementID": "35161e7f4a4440de857b5ec12fcd4e02",
+    "ProductGroupID": "9ead5128-0d0b-4ca6-8a7b-b1917515ab3e",
+    "ProductGroupOrder": 1,
+    "ProductID": "35161e7f-4a44-40de-857b-5ec12fcd4e02",
+    "ProductNaam": "Frikandel",
+    "TAXDescription": "BTW laag"
+  }
+]
